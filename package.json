@@ -2,7 +2,7 @@
   "name": "twitch-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://red4211.github.io/react-twitch-app",
+  "homepage": "https://dance2die.github.io/throwaway.gh-pages/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "prop-types": "^15.7.2",
